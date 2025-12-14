@@ -1,0 +1,1 @@
+Script criado para gerar Usuarios automaticamente no curso de fundamentos de Linux da DIO
